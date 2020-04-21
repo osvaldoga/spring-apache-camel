@@ -1,0 +1,4 @@
+type, sku, desc, price
+ADD, 1234, Samsung TV, 500
+ADD, 1235, LG TV, 500
+ADD,, Samsung TV, 500
